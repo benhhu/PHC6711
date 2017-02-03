@@ -1,5 +1,5 @@
-#install.packages("psych")
-#install.packages("irr)
+install.packages("psych")
+install.packages("irr")
 library(psych)
 library(irr)
 
