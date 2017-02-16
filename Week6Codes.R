@@ -1,3 +1,5 @@
+install.packages("nhanesA")
+
 library(nhanesA)
 library(sqldf)
 library(plyr)
